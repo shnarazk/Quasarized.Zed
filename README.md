@@ -1,4 +1,4 @@
-# Quasalized.Zed
+# Quasarized.Zed
 
 A modified color scheme extension for [Zed editor](https://github.com/zed-industries/zed) based on Solarized with 4 additional colors for better readability.
 
@@ -6,7 +6,7 @@ A modified color scheme extension for [Zed editor](https://github.com/zed-indust
 
 ### Four more colors
 
-**Quasalized** is a simple extension of the Solarized color scheme. It adds 4 colors to main tones for better readability and UI components.
+**Quasarized** is a simple extension of the Solarized color scheme. It adds 4 colors to main tones for better readability and UI components.
 
 - Dark4 `#002b36` was `base03` in Solarized
 - Dark3 `#073642` was `base02` in Solarized
@@ -42,20 +42,20 @@ Types in Orange, Functions in Violet, and Variables in Cyan. The other elements 
 
 1. Open Zed editor
 2. Open the extensions view (Cmd+Shift+X on macOS, Ctrl+Shift+X on Linux/Windows)
-3. Search for "Quasalized"
+3. Search for "Quasarized"
 4. Click Install
 
 Or install from source:
 ```bash
-git clone https://github.com/shnarazk/Quasalized.Zed
-cd Quasalized.Zed
+git clone https://github.com/shnarazk/Quasarized.Zed
+cd Quasarized.Zed
 # Follow Zed extension development instructions
 ```
 
 ## Usage
 
 1. Open Zed settings (Cmd+, on macOS, Ctrl+, on Linux/Windows)
-2. Select "Quasalized Dark" or "Quasalized Light" from the theme dropdown
+2. Select "Quasarized Dark" or "Quasarized Light" from the theme dropdown
 
 ## Credits
 

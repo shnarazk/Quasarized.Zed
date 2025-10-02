@@ -1,4 +1,4 @@
-# Quasalized Color Reference
+# Quasarized Color Reference
 
 ## Accent Colors
 
@@ -53,7 +53,7 @@ Light theme uses the same colors but with fg and bg swapped:
 
 ## Key Differences from Solarized
 
-Quasalized adds 4 new colors to the original Solarized palette:
+Quasarized adds 4 new colors to the original Solarized palette:
 
 1. **bg_2/fg_2** (`#30525c`) - A medium tone between base01 and base02
 2. **bg_3c/fg_3c** (`#421307`) - Complement color of base02/Dark3
