@@ -238,8 +238,8 @@
           },
           "hint": {
             "color": "#2aa198ff",
-            "font_style": null,
-            "font_weight": 700
+            "font_style": "italic",
+            "font_weight": 200
           },
           "keyword": {
             "color": "#859900ff",
@@ -609,8 +609,8 @@
           },
           "hint": {
             "color": "#2aa198ff",
-            "font_style": null,
-            "font_weight": 700
+            "font_style": "italic",
+            "font_weight": 200
           },
           "keyword": {
             "color": "#859900ff",
