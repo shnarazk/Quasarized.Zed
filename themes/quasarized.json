@@ -102,12 +102,12 @@
         "created": "#859900ff",
         "created.background": "#85990033",
         "created.border": "#859900ff",
-        "deleted": "#dc322fff",
-        "deleted.background": "#dc322f33",
-        "deleted.border": "#dc322fff",
-        "error": "#dc322fff",
-        "error.background": "#dc322f33",
-        "error.border": "#dc322fff",
+        "deleted": "#d33682ff",
+        "deleted.background": "#d3368233",
+        "deleted.border": "#d33682ff",
+        "error": "#d33682ff",
+        "error.background": "#d3368233",
+        "error.border": "#d33682ff",
         "hidden": "#839496ff",
         "hidden.background": "#002b36ff",
         "hidden.border": "#586e75ff",
@@ -227,7 +227,7 @@
             "font_weight": 700
           },
           "enum": {
-            "color": "#dc322fff",
+            "color": "#cb4b16ff",
             "font_style": null,
             "font_weight": null
           },
@@ -357,7 +357,7 @@
             "font_weight": 700
           },
           "type": {
-            "color": "#cb4b16ff",
+            "color": "#dc322fff",
             "font_style": null,
             "font_weight": null
           },
@@ -367,7 +367,7 @@
             "font_weight": null
           },
           "variant": {
-            "color": "#d33682ff",
+            "color": "#cb4b16ff",
             "font_style": null,
             "font_weight": null
           }
@@ -473,12 +473,12 @@
         "created": "#859900ff",
         "created.background": "#85990033",
         "created.border": "#859900ff",
-        "deleted": "#dc322fff",
-        "deleted.background": "#dc322f33",
-        "deleted.border": "#dc322fff",
-        "error": "#dc322fff",
-        "error.background": "#dc322f33",
-        "error.border": "#dc322fff",
+        "deleted": "#d33682ff",
+        "deleted.background": "#d3368233",
+        "deleted.border": "#d33682ff",
+        "error": "#d33682ff",
+        "error.background": "#d3368233",
+        "error.border": "#d33682ff",
         "hidden": "#839496ff",
         "hidden.background": "#fdf6e3ff",
         "hidden.border": "#93a1a1ff",
@@ -598,7 +598,7 @@
             "font_weight": 700
           },
           "enum": {
-            "color": "#dc322fff",
+            "color": "#cb4b16ff",
             "font_style": null,
             "font_weight": null
           },
@@ -728,7 +728,7 @@
             "font_weight": 700
           },
           "type": {
-            "color": "#cb4b16ff",
+            "color": "#dc322fff",
             "font_style": null,
             "font_weight": null
           },
@@ -738,7 +738,7 @@
             "font_weight": null
           },
           "variant": {
-            "color": "#d33682ff",
+            "color": "#cb4b16ff",
             "font_style": null,
             "font_weight": null
           }
