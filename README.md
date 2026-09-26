@@ -31,7 +31,7 @@ Types in Red, Functions in Violet, and Variables in Cyan. The other elements are
 
 - ![badge](https://img.shields.io/badge/Magenta-d33682) (`d33682`) errors
 - ![badge](https://img.shields.io/badge/Red-dc322f) (`dc322f`) class, type, struct
-- ![badge](https://img.shields.io/badge/Orange-cb4b16) (`cb4b16`) enum variant type parameter
+- ![badge](https://img.shields.io/badge/Orange-cb4b16) (`cb4b16`) enum variant, type parameter
 - ![badge](https://img.shields.io/badge/Violet-6c71c4) (`6c71c4`) function
 - ![badge](https://img.shields.io/badge/Blue-268bd2) (`268bd2`) operator
 - ![badge](https://img.shields.io/badge/Cyan-2aa198) (`2aa198`) variable
