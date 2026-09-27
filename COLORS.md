@@ -9,9 +9,9 @@ These are the primary accent colors used in syntax highlighting:
 | Magenta | `#d33682` | errors |
 | Red     | `#dc322f` | class, type, struct |
 | Orange  | `#cb4b16` | enum variant, type parameter |
-| Violet  | `#6c71c4` | function |
+| Cyan    | `#2aa198` | function |
 | Blue    | `#268bd2` | operator, constructor, property |
-| Cyan    | `#2aa198` | variable |
+| Violet  | `#6c71c4` | variable |
 | Yellow  | `#b58900` | namespace, label, constant, attribute, macro |
 | Green   | `#859900` | keyword, special |
 
@@ -66,7 +66,7 @@ These additions provide more flexibility in UI design and better visual hierarch
 
 - **Magenta is reserved for errors** (`#d33682`) - Not reused by any syntax token, so a real error never blends in with ordinary code
 - **Types are prominent** (Red `#dc322f`) - Easy to identify data structures
-- **Functions stand out** (Violet `#6c71c4`) - Clear function calls
-- **Variables are distinct** (Cyan `#2aa198`) - Track data flow
+- **Functions stand out** (Cyan `#2aa198`) - Clear function calls
+- **Variables are distinct** (Violet `#6c71c4`) - Track data flow
 - **Keywords are subtle** (Green `#859900`) - Don't distract from code
 - **Comments are muted** (bg/fg tones) - Present but not distracting

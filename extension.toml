@@ -3,5 +3,5 @@ name = "Quasarized"
 version = "0.1.0"
 schema_version = 1
 authors = ["shnarazk"]
-description = "A modified color scheme based on Solarized with 4 additional colors for better readability. Features types in Red, functions in Violet, and variables in Cyan."
+description = "A modified color scheme based on Solarized with 4 additional colors for better readability. Features types in Red, functions in Cyan, and variables in Violet."
 repository = "https://github.com/shnarazk/Quasarized.Zed"
